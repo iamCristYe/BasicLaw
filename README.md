@@ -1,5 +1,5 @@
-[电子版香港法例中英对照版](https://www.elegislation.gov.hk/hk/A101!en-sc.assist.pdf)
-[基本法网页带宪法版](https://www.basiclaw.gov.hk/gb/basiclawtext/images/basiclaw_full_text_gb.pdf)
+[中英对照版基本法](https://www.elegislation.gov.hk/hk/A101!en-sc.assist.pdf)
+[宪法与基本法及相关文件](https://www.basiclaw.gov.hk/gb/basiclawtext/images/basiclaw_full_text_gb.pdf)
 
 # 序言
 香港自古以来就是中国的领土，一八四○年鸦片战争以后被英国占领。一九八四年十二月十九日，中英两国政府签署了关于香港问题的联合声明，确认中华人民共和国政府于一九九七年七月一日恢复对香港行使主权，从而实现了长期以来中国人民收回香港的共同愿望。

@@ -1,7 +1,3 @@
-# 中华人民共和国
-# 香港特别行政区
-# 基本法
-
 [中英对照版基本法](https://www.elegislation.gov.hk/hk/A101!en-sc.assist.pdf)
 [宪法及基本法与相关文件](https://www.basiclaw.gov.hk/gb/basiclawtext/images/basiclaw_full_text_gb.pdf)
 
